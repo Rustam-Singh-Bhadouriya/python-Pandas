@@ -36,6 +36,6 @@ Whether you're cleaning raw data or preparing structured input for machine learn
 Install required packages using:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirments.txt
 
 
